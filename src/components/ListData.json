@@ -103,4 +103,274 @@
         "latitude": 29.6436,
         "longitude": -82.3959
     }
-}] 
+}, {
+    "id": 8,
+    "image": "/img/apartmentimage8.jpg",
+    "name": "MARvel Tower",
+    "config": "10 bed 8 bath",
+    "sqft": 8004,
+    "city": "chicago,IL",
+    "price": 999,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528682734,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3444
+    }
+}, {
+    "id": 9,
+    "image": "/img/apartmentimage9.jpg",
+    "name": "Batmans cave",
+    "config": "30 bed 20 bath",
+    "sqft": 60000,
+    "city": "new jersey, NY",
+    "price": 10000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528882634,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3555
+    }
+}, {
+    "id": 10,
+    "image": "/img/apartmentimage10.jpg",
+    "name": "supreme houses ",
+    "config": "22 bed 11 bath",
+    "sqft": 50000,
+    "city": "Dallas, Texas",
+    "price": 7000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528882730,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3666
+    }
+}, {
+    "id": 11,
+    "image": "/img/apartmentimage11.jpg",
+    "name": "IgotYouHomie",
+    "config": "20 bed 10 bath",
+    "sqft": 40000,
+    "city": "washington, DC",
+    "price": 6000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528885734,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3777
+    }
+}, {
+    "id": 12,
+    "image": "/img/apartmentimage12.jpg",
+    "name": "Yourdestn.",
+    "config": "30 bed 15 bath",
+    "sqft": 62000,
+    "city": "Los Angeles, california",
+    "price": 11000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13588882734,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3888
+    }
+}, {
+    "id": 13,
+    "image": "/img/apartmentimage13.jpg",
+    "name": "For you to stay",
+    "config": "40 bed 40 bath",
+    "sqft": 80000,
+    "city": "Austin, Texas",
+    "price": 8000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528888734,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3999
+    }
+}, {
+    "id": 14,
+    "image": "/img/apartmentimage14.jpg",
+    "name": "Partyeveryday",
+    "config": "70 bed 50 bath",
+    "sqft": 100000,
+    "city": "San Jose, California",
+    "price": 6000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528882134,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.4000
+    }
+}, {
+    "id": 15,
+    "image": "/img/apartmentimage15.jpg",
+    "name": "LongStay",
+    "config": "25 bed 20 bath",
+    "sqft": 55000,
+    "city": "Fort Worth, Texas",
+    "price": 8000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528882114,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3766
+    }
+}, {
+    "id": 16,
+    "image": "/img/apartmentimage16.jpg",
+    "name": "happy Bunker",
+    "config": "35 bed 30 bath",
+    "sqft": 64078,
+    "city": "Denver, Colorado",
+    "price": 1399,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 135288828634,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3651
+    }
+}, {
+    "id": 17,
+    "image": "/img/apartmentimage12.jpg",
+    "name": "Mountain Rock Aparts",
+    "config": "56 bed 28 bath",
+    "sqft": 100000,
+    "city": "Atlanta, Georgia",
+    "price": 3000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528082734,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3652
+    }
+}, {
+    "id": 18,
+    "image": "/img/apartmentimage18.jpg",
+    "name": "HEaven's houses",
+    "config": "20 bed 15 bath",
+    "sqft": 30000,
+    "city": "Raleigh, North Carolina",
+    "price": 2499,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13598882734,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3653
+    }
+}, {
+    "id": 19,
+    "image": "/img/apartmentimage19.jpg",
+    "name": "America's Heaven",
+    "config": "50 bed 34 bath",
+    "sqft": 70000,
+    "city": "long beach, California",
+    "price": 6999,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528882700,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3622
+    }
+}, {
+    "id": 20,
+    "image": "/img/apartmentimage20.jpg",
+    "name": "Golden leaf",
+    "config": "20 bed 14 bath",
+    "sqft": 35000,
+    "city": "Miami, Florida",
+    "price": 7000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528881114,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3646
+    }
+}, {
+    "id": 21,
+    "image": "/img/apartmentimage21.jpg",
+    "name": "Veryy good homes",
+    "config": "50 bed 50 bath",
+    "sqft": 75000,
+    "city": "Tampa, FLorida",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13526662734,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3389
+    }
+}, {
+    "id": 22,
+    "image": "/img/apartmentimage22.jpg",
+    "name": "Gator Houses",
+    "config": "36 bed 22 bath",
+    "sqft": 65000,
+    "city": "Orlando, FLorida",
+    "price": 1599,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528866734,
+    "coordinates": {
+        "latitude": 29.6436,
+        "longitude": -82.3335
+    }
+}, {
+    "id": 23,
+    "image": "/img/apartmentimag22.jpg",
+    "name": "Quality Homes",
+    "config": "30 bed 10 bath",
+    "sqft": 53000,
+    "city": "DUrham,Nort carolina",
+    "price": 3999,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13527776734,
+    "coordinates": {
+        "latitude": 26.6436,
+        "longitude": -82.3701
+    }
+}, {
+    "id": 24,
+    "image": "/img/apartmentimage24.jpg",
+    "name": "Vormir",
+    "config": "37 bed 28 bath",
+    "sqft": 70000,
+    "city": "Glendale, Arizona",
+    "price": 2699,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13528882444,
+    "coordinates": {
+        "latitude": 23.6436,
+        "longitude": -82.3377
+    }
+}, {
+    "id": 25,
+    "image": "/img/apartmentimage25.jpg",
+    "name": "Asgard Island",
+    "config": "55 bed 45 bath",
+    "sqft": 95000,
+    "city": "Fontana, California",
+    "price": 5999,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "amenities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "phoneNumber": 13558882734,
+    "coordinates": {
+        "latitude": 24.6436,
+        "longitude": -82.3787
+    }
+}] ] 
